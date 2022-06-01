@@ -1,0 +1,5 @@
+package ContaHerdado;
+public interface Tributavel {
+    
+    public abstract double getValorImposto();
+}
